@@ -1,0 +1,17 @@
+h1{
+    color:green;
+}
+.note{
+    color:red;
+}
+img{
+    height:200px;
+    width:200px;
+}
+.note{
+    font-weight: normal;
+}
+.container{
+    display:flex;
+    gap:10px;
+}
